@@ -2,6 +2,10 @@
 
 A single one-file-note app for minimalists. Built quickly using Godot Game-engine, to quickly draft daily notes, tasks.
 
+
+![ScreenShot](https://github.com/hamzamu/one-file-note/blob/master/screenshot.png?raw=true
+) 
+
 ## Features
 - Auto safe
 - Tabs/ Space for organization
@@ -9,12 +13,13 @@ A single one-file-note app for minimalists. Built quickly using Godot Game-engin
 
 
 File location
-Windows
+
+### Windows
 ```
 C:\Users\<username>\AppData\Roaming\Godot\app_userdata\<project>\
 ```
 
-Linux and macOS 
+### Linux and macOS 
 ```
 ~/.local/share/godot/app_userdata/_application_name_/
 ```
